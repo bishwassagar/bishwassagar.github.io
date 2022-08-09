@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.3df5d851.css",
-    "main.js": "/static/js/main.219177da.js",
-    "static/media/me-about.jpg": "/static/media/me-about.008e241f83ba5f6acc72.jpg",
+    "main.js": "/static/js/main.ad25fc8d.js",
+    "static/media/me-about.webp": "/static/media/me-about.d42b36908372e431d0ac.webp",
     "static/media/Bishwas_Sagar.pdf": "/static/media/Bishwas_Sagar.7ce14750ade696b8979f.pdf",
     "index.html": "/index.html",
     "main.3df5d851.css.map": "/static/css/main.3df5d851.css.map",
-    "main.219177da.js.map": "/static/js/main.219177da.js.map"
+    "main.ad25fc8d.js.map": "/static/js/main.ad25fc8d.js.map"
   },
   "entrypoints": [
     "static/css/main.3df5d851.css",
-    "static/js/main.219177da.js"
+    "static/js/main.ad25fc8d.js"
   ]
 }
